@@ -1,5 +1,6 @@
 # MVVM example
 This repo is to demonstrate how to use MVVM design pattern with data binding.
+The api is taken from https://rickandmortyapi.com/
 
 ### Android MVVM pattern
 The MVVM pattern comprises of three core components, each having a distinct role:
